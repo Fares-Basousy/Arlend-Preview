@@ -252,7 +252,7 @@ Internal dashboard for managing inventory, orders, and operational workflows —
 **Automated Email Flows**
 Order confirmations, shipping updates, and account recovery emails are all triggered automatically. Zero manual sending.
 
-![Automated Emails](public/order-confirmation-email.png.png)
+![Automated Emails](public/order-confirmation-email.png)
 
 ---
 
