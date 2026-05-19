@@ -20,7 +20,7 @@ This isn't just another print-on-demand shop. The designs are original, the mate
 
 I co-founded Arlend as the sole technical founder alongside a creative director. Every line of code, every architecture decision, and every system in this platform was designed and shipped by me.
 
-> 📬 **Available for new opportunities and freelance projects**
+> 📬 **Available for new opportunities**
 > [LinkedIn](https://www.linkedin.com/in/fares-el-basousy-87424b167/) · [GitHub](https://github.com/Fares-Basousy/) · faresbasousy@gmail.com
 
 ---
