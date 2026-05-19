@@ -147,7 +147,7 @@ Full product browsing with a navbar quick-search for instant results by name or 
 **Infinite Scroll Pagination**
 Zero duplicate products across pages — handled at the query level, not patched at the UI level.
 
-![Infinite Scroll](public/infinite-scroll.png)
+![Infinite Scroll](public/infinite-scroll.gif)
 
 ---
 
