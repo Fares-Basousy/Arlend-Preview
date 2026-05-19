@@ -279,3 +279,9 @@ Software Engineer · AWS Certified Solutions Architect
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/Fares-Basousy/)
 [![Email](https://img.shields.io/badge/Email-faresbasousy%40gmail.com-red)](mailto:faresbasousy@gmail.com)
 [![AWS](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-orange)](https://www.credly.com/badges/541537db-4498-4141-b62f-b214778c12ef/public_url)
+**Youssef Ibrahim**
+Art Director
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/youssef-ibrahim-b65501170/)
+[![Email](https://img.shields.io/badge/Email-faresbasousy%40gmail.com-red)](mailto:yi22035@gmail.com)
+
