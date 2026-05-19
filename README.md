@@ -231,7 +231,7 @@ Real-time shipping updates on the user end. On the company side, an automated wo
 **Toaster Notification System**
 Customized toasters across all key interactions — cart actions, auth events, order updates, and errors. Each event has its own styled notification rather than a generic one-size-fits-all toast.
 
-![Toasters](public/toasters.png)
+![Toasters](public/login-toaster.gif)|![Toasters](public/-cart-toaster.gif)|![Toasters](public/wishlist-toaster.gif)
 
 ---
 
