@@ -62,7 +62,7 @@ Every product is positioned as a premium item — the platform was built to refl
 | Backend | NestJS, Node.js |
 | Database | MongoDB |
 | Auth | JWT, Google OAuth |
-| Payments | Payment Gateway Integration |
+| Payments | Paymob Payment Gateway Integration |
 | Infrastructure | Docker, Cloud Deployment |
 | SEO | SSR, Structured Metadata, Semantic HTML |
 
